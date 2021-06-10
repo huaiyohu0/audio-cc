@@ -1,6 +1,6 @@
 <template>
 	<view class="container">
-		<audio-cc title="测试音频" playImg="../../static/audio-play.png" pauseImg="../../static/audio-stop.png" src="../../static/1.mp3"></audio-cc>
+		<audio-cc title="测试音频" playImg="../../static/audio-play.png" pauseImg="../../static/audio-stop.png" src="https://raw.githubusercontent.com/huaiyohu0/audio-cc/master/static/1.mp3"></audio-cc>
 	</view>
 </template>
 
