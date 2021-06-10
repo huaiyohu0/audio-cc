@@ -170,7 +170,7 @@ export default {
         if (alone) {
           for (let uuid in audioContainer){
             if (this.uuid !== uuid) {
-              typeof audioContainer[uuid] === "object" && audioContainer[uuid].pause();
+              audioContainer[uuid] && audioContainer[uuid].pause();
             }
           }
         }
