@@ -1,1 +1,0 @@
-<view class="container"><audio-cc vue-id="8dd740cc-1" title="测试音频" playImg="../../static/audio-play.png" pauseImg="../../static/audio-stop.png" src="../../static/1.mp3" bind:__l="__l"></audio-cc></view>
