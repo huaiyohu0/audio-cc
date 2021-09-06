@@ -1,5 +1,11 @@
-# audio-cc
+#uniapp音频组件 (audio-cc)
 
-uniapp音频组件
+####音频来源网络,版权属歌曲本人.(如有版权问题,请联系我马上修正,感谢)
 
-####音频来源网络,版权属歌曲本人.(如有版权问题,请联系我马上修正)
+组件及使用demo如下
+
+```js
+<audio-cc title="测试音频" playImg="../../static/audio-play.png" pauseImg="../../static/audio-stop.png" src="https://raw.githubusercontent.com/huaiyohu0/audio-cc/master/static/1.mp3"></audio-cc>
+```
+
+比较简单没啥讲头.. 有问题请留言.
